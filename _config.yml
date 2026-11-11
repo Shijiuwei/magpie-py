@@ -1,0 +1,5 @@
+title: "magpie-py"
+description: "High availability  and network topology specifications for yetone/magpie"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
